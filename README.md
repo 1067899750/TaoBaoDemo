@@ -3,5 +3,5 @@
 
 ### 效果展示
 
-　<center>![这里写图片描述](https://github.com/1067899750/TaoBaoDemo/image/a.png)</center>
+　<center>![这里写图片描述](TaoBaoDemo/image/a.png)</center>
 ### 实现分析
