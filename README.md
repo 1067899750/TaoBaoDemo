@@ -3,5 +3,8 @@
 
 ### 效果展示
 
-　<center>![这里写图片描述](TaoBaoDemo/image/a.png)</center>
+<div class='row'>
+        <img src='https://github.com/1067899750/TaoBaoDemo/blob/master/image/a.png' width="300px"/>
+</div>
+
 ### 实现分析
